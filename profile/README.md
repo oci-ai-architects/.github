@@ -1,35 +1,39 @@
-# OCI AI Architects
+<h3 align="center">OCI AI Architects</h3>
 
-> **Unofficial Community Project** - Not affiliated with, endorsed by, or sponsored by Oracle Corporation.
+<p align="center">
+  Community-built skills, patterns, and tools for AI Architects on Oracle Cloud Infrastructure.
+</p>
 
-## About
-
-Open-source tools, patterns, and skills for AI Architects working with Oracle Cloud Infrastructure. Built by the community, for the community.
-
-## Repositories
-
-| Repository | Description |
-|------------|-------------|
-| [claude-code-oci-ai-architect-skills](https://github.com/oci-ai-architects/claude-code-oci-ai-architect-skills) | Claude Code skills for OCI - GenAI, ADK, Agent Spec, Diagrams |
-| [multi-cloud-ai-architect](https://github.com/oci-ai-architects/multi-cloud-ai-architect) | Multi-Cloud AI patterns - OCI, AWS, Azure, GCP, NVIDIA |
-| [oci-ai-architect](https://github.com/oci-ai-architects/oci-ai-architect) | OCI-specific GenAI patterns and Dedicated AI Clusters |
-| [oci-genai-guides](https://github.com/oci-ai-architects/oci-genai-guides) | Production-ready guides and code samples |
-
-## Quick Start
-
-```bash
-# Install Claude Code skills
-/plugin marketplace add oci-ai-architects/claude-code-oci-ai-architect-skills
-```
-
-## Disclaimer
-
-Oracle, OCI, and related marks are trademarks of Oracle Corporation. This organization and its projects are community-driven and unofficial.
-
-## Contributing
-
-We welcome contributions! See individual repo CONTRIBUTING.md files for guidelines.
+<p align="center">
+  <em>Unofficial community project — not affiliated with Oracle Corporation.</em>
+</p>
 
 ---
 
-*Maintained by the community*
+Enterprise AI on OCI moves fast. The official docs tell you what's possible. This org tells you how to actually build it — production patterns, real implementations, tested skill packs.
+
+Everything here is extracted from working systems, not demos.
+
+## Projects
+
+**[oci-ai-architect](https://github.com/oci-ai-architects/oci-ai-architect)** — Oracle Cloud Infrastructure AI Architect reference. OCI GenAI, Dedicated AI Clusters, Oracle ADK, enterprise AI patterns. The starting point for any serious OCI AI build.
+
+**[claude-code-oci-ai-architect-skills](https://github.com/oci-ai-architects/claude-code-oci-ai-architect-skills)** — Claude Code skills for OCI AI Architects. Community-led reference implementations, architecture patterns, and OCI-specific workflows.
+
+**[cline-oci-ai-architect-skills](https://github.com/oci-ai-architects/cline-oci-ai-architect-skills)** — Cross-platform skills for Cline, Cursor, RooCode, and Windsurf. Same OCI patterns, any coding agent.
+
+**[oci-coe-starter-kit](https://github.com/oci-ai-architects/oci-coe-starter-kit)** — Production-ready skill packs for building an AI Center of Excellence on OCI. 4 packs: GenAI, ADB AI, Clinical AI, Coding Agents.
+
+**[openclaw-on-oci](https://github.com/oci-ai-architects/openclaw-on-oci)** — One-click OCI deployment stack for OpenClaw with Podman-first runtime, Bastion access, and OCI GenAI integration.
+
+**[oci-one-click-stacks](https://github.com/oci-ai-architects/oci-one-click-stacks)** — OCI Terraform/OpenTofu stack portfolio from simple to advanced. Reproducible infrastructure for AI workloads.
+
+## Background
+
+Built by enterprise AI architects who run production AI systems on Oracle Cloud. The patterns here are battle-tested — from AI Centers of Excellence to multi-cloud agent deployments.
+
+Contributions welcome. If you're building AI systems on OCI, this is your community.
+
+---
+
+<sub>Community project · Not affiliated with Oracle · Maintained by <a href="https://github.com/frankxai">frankxai</a></sub>
