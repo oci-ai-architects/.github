@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <em>Unofficial community project — not affiliated with Oracle Corporation.</em>
+  <em>Community project.</em>
 </p>
 
 ---
