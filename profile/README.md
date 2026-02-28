@@ -12,7 +12,7 @@
 
 Enterprise AI on OCI moves fast. The official docs tell you what's possible. This org tells you how to actually build it — production patterns, real implementations, tested skill packs.
 
-Everything here is extracted from working systems, not demos.
+Everything here is build for ai systems, demos, solution designs for the latest Coding Agents.
 
 ## Projects
 
